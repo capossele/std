@@ -44,8 +44,8 @@ pub mod error;
 #[doc(hidden)]
 pub use std::*;
 
-mod rand_helper;
-pub use rand_helper::*;
+// mod rand_helper;
+// pub use rand_helper::*;
 
 pub mod perf_trace;
 
